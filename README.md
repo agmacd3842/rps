@@ -1,4 +1,4 @@
-rps
+Rock, Paper, Scissors
 ===
 
-rock, paper, scissors game
+play three rounds of rock, paper, scissors
